@@ -1,1 +1,2 @@
 # Geradorimagensilimitadas
+adicionando geradorimagensilimitadas 
